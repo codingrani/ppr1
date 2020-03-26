@@ -25,7 +25,7 @@
         
         
         ?>
-      <label for="">name</label>
+      <label for="">name deain</label>
       <input type="text" name="name" id="name" />
       <label for="">address</label>
       <input type="text" name="address"  id="address" />
