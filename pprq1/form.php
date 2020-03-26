@@ -22,7 +22,7 @@
             if(isset($_SESSION['error']))
                 print_r($_SESSION['error']);
         }
-        
+        echo "jnb muhtram github sahib ap k boht boht shukria run hony";
         
         ?>
       <label for="">name dain</label>
